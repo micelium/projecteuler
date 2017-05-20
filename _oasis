@@ -13,4 +13,4 @@ Plugins: META (0.4), DevFiles (0.4)
 
 Executable "foo"
   Path: src
-  MainIs: foo.ml
+  MainIs: 0000.ml
